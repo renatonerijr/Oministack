@@ -18,7 +18,52 @@ export default function Profile(){
                 </button>
             </header>
 
+            <h1> Casos cadastrados </h1>
+
             <ul>
+                <li>
+                    <strong>CASO:</strong>
+                    <p>Caso teste</p>
+
+                    <strong>DESCRIÇÃO:</strong>
+                    <p>Descrição teste</p>
+
+                    <strong>VALOR:</strong>
+                    <p>R$ 120,00</p>
+
+                    <button type="button">
+                        <FiTrash2 size={20} color="#a8a8b3"></FiTrash2>
+                    </button>
+                </li>
+                <li>
+                    <strong>CASO:</strong>
+                    <p>Caso teste</p>
+
+                    <strong>DESCRIÇÃO:</strong>
+                    <p>Descrição teste</p>
+
+                    <strong>VALOR:</strong>
+                    <p>R$ 120,00</p>
+
+                    <button type="button">
+                        <FiTrash2 size={20} color="#a8a8b3"></FiTrash2>
+                    </button>
+                </li>
+                <li>
+                    <strong>CASO:</strong>
+                    <p>Caso teste</p>
+
+                    <strong>DESCRIÇÃO:</strong>
+                    <p>Descrição teste</p>
+
+                    <strong>VALOR:</strong>
+                    <p>R$ 120,00</p>
+
+                    <button type="button">
+                        <FiTrash2 size={20} color="#a8a8b3"></FiTrash2>
+                    </button>
+                </li>
+
                 <li>
                     <strong>CASO:</strong>
                     <p>Caso teste</p>
