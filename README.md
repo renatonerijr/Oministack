@@ -1,5 +1,5 @@
 # Oministack
 Projeto feito com as aulas da semana Omnistack
 
-![Mobile](./images/mobile.gif =250x)
-![Desktop](./images/desktop.gif)
+<img src="./images/mobile.gif" alt="drawing" style="height:200px"/>
+<img src="./images/desktop.gif" alt="drawing" style="height:200px"/>
